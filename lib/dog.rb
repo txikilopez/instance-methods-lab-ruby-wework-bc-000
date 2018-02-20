@@ -3,4 +3,8 @@ class Dog
     puts("Woof!")
   end
   
-  
+  def sit
+    puts("The Dog is Sitting")
+  end
+end
+
